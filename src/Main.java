@@ -18,12 +18,14 @@ public class Main {
         System.out.println(cat);
         paper = paper - 7639;
         System.out.println(paper);
+
         var friend = 19;
         System.out.println(friend);
         friend =  friend * 2;
         System.out.println(friend);
         friend = friend / 7;
         System.out.println(friend);
+
         var frog = 3.5;
         System.out.println(frog);
         frog = frog * 10;
@@ -32,6 +34,7 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
+
         var fighter1 = 78.2;
         System.out.println(fighter1);
         var fighter2 = 82.7;
@@ -42,6 +45,7 @@ public class Main {
         System.out.println("Разница двух бойцов " + difference + " кг");
         var differenceFighter = (fighter2 % fighter1);
         System.out.println(differenceFighter);
+
         var sharedByemployees = 640;
         System.out.println(sharedByemployees);
         var employee = 8;
@@ -50,6 +54,7 @@ public class Main {
         System.out.println("Всего работников в компании " + TotalEmployees + " человек");
         var newTotalEmployees = TotalEmployees + 94;
         System.out.println(newTotalEmployees);
+
         var theCompanyWorks = 174;
         System.out.println(theCompanyWorks);
         var dividedBetweenEmployees = theCompanyWorks * employee;
